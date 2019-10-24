@@ -8,3 +8,5 @@ var topic = "space";
 
 var conversation = `Let's talk about ${topic}.`
 "Hello, " + specialGuest + "!";
+`Let's talk about ${topic}.
+`
